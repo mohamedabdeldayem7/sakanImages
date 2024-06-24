@@ -1,0 +1,9 @@
+project:
+  house: house/
+  profile: profile/
+
+base:
+  url: ""
+
+server:
+  port: 8090
